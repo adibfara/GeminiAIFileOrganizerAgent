@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="docling" />
+            <item index="1" class="java.lang.String" itemvalue="openai" />
+            <item index="2" class="java.lang.String" itemvalue="langfuse" />
+            <item index="3" class="java.lang.String" itemvalue="langgraph" />
+            <item index="4" class="java.lang.String" itemvalue="langchain-openai" />
+            <item index="5" class="java.lang.String" itemvalue="llama-index-core" />
+            <item index="6" class="java.lang.String" itemvalue="llama-index-llms-deepseek" />
+            <item index="7" class="java.lang.String" itemvalue="ollama" />
+            <item index="8" class="java.lang.String" itemvalue="langchain_community" />
+            <item index="9" class="java.lang.String" itemvalue="langgraph-checkpoint" />
+            <item index="10" class="java.lang.String" itemvalue="llama-index-multi-modal-llms-openai" />
+            <item index="11" class="java.lang.String" itemvalue="llama-index-llms-gemini" />
+            <item index="12" class="java.lang.String" itemvalue="langchain" />
+            <item index="13" class="java.lang.String" itemvalue="deepeval" />
+            <item index="14" class="java.lang.String" itemvalue="langchain-core" />
+            <item index="15" class="java.lang.String" itemvalue="google-genai" />
+            <item index="16" class="java.lang.String" itemvalue="langchain-ollama" />
+            <item index="17" class="java.lang.String" itemvalue="langchain-text-splitters" />
+            <item index="18" class="java.lang.String" itemvalue="langsmith" />
+            <item index="19" class="java.lang.String" itemvalue="llama-index-llms-openai" />
+            <item index="20" class="java.lang.String" itemvalue="ragas" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
